@@ -62,7 +62,6 @@ def brute_force_route():
         for pair in data.get('pairs', [])
     ]
     pairs = [(pair['plaintext'], pair['ciphertext']) for pair in pairs]
-
     key, time_taken = brute_force(pairs)
 
     if key is not None:
