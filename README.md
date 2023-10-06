@@ -61,5 +61,5 @@ python app.py
     ├── SDES.py      # SDES算法实现
     ├── README.md    
     ├── requirements.txt   # 项目所需库
-    ├── UserGuide.pdf   # 用户指南
-    ├── DevelopmentManual.pdf   # 开发手册
+    ├── 接口文档.pdf   # 用户指南
+    ├── 用户指南.pdf   # 开发手册
