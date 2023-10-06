@@ -45,9 +45,9 @@ python app.py
 
 图形界面将启动，可通过 http://localhost:5000 访问
 
-具体使用请参考`接口文档.pdf`
+具体使用请参考`用户指南.pdf`
 
-进一步开发，请参考`用户指南.pdf`
+进一步开发，请参考`接口文档.pdf`
 
 ## 项目结构
 
@@ -61,5 +61,5 @@ python app.py
     ├── SDES.py      # SDES算法实现
     ├── README.md    
     ├── requirements.txt   # 项目所需库
-    ├── 接口文档.pdf   # 用户指南
-    ├── 用户指南.pdf   # 开发手册
+    ├── 用户指南.pdf   # 用户指南
+    ├── 接口文档.pdf   # 开发手册
